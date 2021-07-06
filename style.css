@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+}
+.bld{
+    font-size: 35px;
+}
+.w1{
+    color: orange;
+}
+section{
+    display: flex;
+}
+p{
+    text-align: justify;
+}
+.w2{
+    width: 50%;
+    padding-left: 5%;
+}
+.w2 img{
+    width: 80%;
+}
+.w3{
+    text-decoration:none;
+    color: white;
+    background-image: linear-gradient(rgb(248, 192, 88),tomato);
+    padding: 10px 30px;
+    border-radius: 6px;
+    font-weight: 800;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}.t-b{
+    background-image: url(images/top-banner.png);
+}
+#w2{
+    width: 50%;
+    padding: 5%;
+}
+#w2 img{
+    width: 100%;
+}
+.d-b{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.back-im{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+.bx-sdo{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border:2px solid indianred ;
+    border-radius: 12%;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-shadow: 10px 10px 40px gray ;
+}
+footer p{
+    text-align: center;
+}
